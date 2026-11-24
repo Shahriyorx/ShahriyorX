@@ -22,3 +22,4 @@ I build web applications with Python and React and work with data using SQL, Exc
 - 🖥️ **Meta Front-End Developer** — Coursera
 - ⚙️ **Meta Back-End Developer** — Coursera
 - 🤖 **Five Million AI Leaders** — AI Study
+- 🏅 **Oracle APEX Cloud Developer Certified Professional** — Oracle
