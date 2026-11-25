@@ -11,24 +11,8 @@ I build web applications with Python and React and work with data using SQL, Exc
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xudoyorovshahriyor2@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shahriyor_khudoyor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyorxudoyorov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyorxudoyorov/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh.khudoyorov/)
-
-<!-- <p align="left">
-  <a href="mailto:xudoyorovshahriyor2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Shahriyor_khudoyor">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahriyorxudoyorov/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sh.khudoyorov/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p> -->
-
 
 ## Technical skills
 
@@ -39,8 +23,8 @@ I build web applications with Python and React and work with data using SQL, Exc
 
 ## Certifications
 
-- 📊 **Salesforce Certified Tableau Consultant** — Salesforce
-- 🖥️ **Meta Front-End Developer** — Coursera
-- ⚙️ **Meta Back-End Developer** — Coursera
-- 🤖 **Five Million AI Leaders** — AI Study
-- 🏅 **Oracle APEX Cloud Developer Certified Professional** — Oracle
+- 🏅 [Oracle APEX Cloud Certified Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=477e8f4e953f1e611579de44d6b7c2b658df54f68bc7809320b295eb69bc2234) — Oracle
+- 📊 [Professional Certificate 1](https://www.coursera.org/account/accomplishments/professional-cert/6N3FKI3HM29N) — Coursera
+- 📈 [Professional Certificate 2](https://www.coursera.org/account/accomplishments/professional-cert/E2AB46X7HXT6) — Coursera
+- 🤖 [Besh Million Promterlar](https://omp.aistudy.uz/certificate?id=c8cd403d-5873-481f-d72e-08de75268173) — AI Study
+- 📉 [Tableau Certified](https://sforce.co/verifycerts) — Salesforce | Credential ID: `7873517`
