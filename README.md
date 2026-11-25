@@ -23,8 +23,8 @@ I build web applications with Python and React and work with data using SQL, Exc
 
 ## Certifications
 
-- 🏅 [Oracle APEX Cloud Certified Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=477e8f4e953f1e611579de44d6b7c2b658df54f68bc7809320b295eb69bc2234) — Oracle
-- 📊 [Professional Certificate 1](https://www.coursera.org/account/accomplishments/professional-cert/6N3FKI3HM29N) — Coursera
-- 📈 [Professional Certificate 2](https://www.coursera.org/account/accomplishments/professional-cert/E2AB46X7HXT6) — Coursera
-- 🤖 [Besh Million Promterlar](https://omp.aistudy.uz/certificate?id=c8cd403d-5873-481f-d72e-08de75268173) — AI Study
-- 📉 [Tableau Certified](https://sforce.co/verifycerts) — Salesforce | Credential ID: `7873517`
+- 🏅 **Oracle Certified** — [Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=477e8f4e953f1e611579de44d6b7c2b658df54f68bc7809320b295eb69bc2234)
+- 💻 **Meta Back-End Developer** — [Meta](https://www.coursera.org/account/accomplishments/professional-cert/6N3FKI3HM29N)
+- 🌐 **Meta Front-End Developer** — [Meta](https://www.coursera.org/account/accomplishments/professional-cert/E2AB46X7HXT6)
+- 🤖 **AI Certificate** — [AI Study](https://omp.aistudy.uz/certificate?id=c8cd403d-5873-481f-d72e-08de75268173)
+- 📊 **Tableau Certified** — [Salesforce](https://sforce.co/verifycerts) | Credential ID: `7873517`
