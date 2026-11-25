@@ -27,4 +27,4 @@ I build web applications with Python and React and work with data using SQL, Exc
 - 📊 [Professional Certificate 1](https://www.coursera.org/account/accomplishments/professional-cert/6N3FKI3HM29N) — Coursera
 - 📈 [Professional Certificate 2](https://www.coursera.org/account/accomplishments/professional-cert/E2AB46X7HXT6) — Coursera
 - 🤖 [Besh Million Promterlar](https://omp.aistudy.uz/certificate?id=c8cd403d-5873-481f-d72e-08de75268173) — AI Study
-[![Tableau Certified](https://img.shields.io/badge/Tableau_Certified-ID:_7873517-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://sforce.co/verifycerts)
+- 📉 [Tableau Certified](https://sforce.co/verifycerts) — Salesforce | Credential ID: `7873517`
